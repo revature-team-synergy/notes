@@ -1,0 +1,56 @@
+# Meeting Notes 02/03/23 - Friday
+
+## STAND-UP
+### Christopher Crawford
+
+Looked into advanced Javascript topics. Will be working on UI mock ups. Skeleton for frontend has been pushed as a commit. (It has been merged.)
+
+### Davian Canty
+
+Reconfigured AWS DynamoDb files and moved it to the config folder, uploaded .env to the teams, created the user, order and products table.
+It has been pushed.
+
+### Leopoldo Navarrete
+
+Worked on the USER STORY: User should be able to edit their info.
+
+### Oneil Smith-Elias
+
+Reorganizing login and registration User stories.
+
+## GENERAL NOTES.
+
+## Sprint week 1.
+### Sprint goals
+- [ ] Set up routes.
+- [ ] UI mock up front end.
+- [x] Create user database.
+- [x] Create order database.
+- [x] Create products database.
+- [ ] USER STORY: Users should be able to edit their information.
+- [ ] USER STORY: Users should be able to register an account.
+- [ ] USER STORY: Users should be able to log in to their account. (With JWT)
+
+
+## TODO:
+### GENERAL
+- [ ] Agree on backend organization.
+
+- [ ] Agree on frontend organization.
+
+### DYNAMODB
+
+- [ ] Create groups
+
+- [ ] Create tables
+
+### BACKEND
+
+
+### FRONTEND
+- [ ] Login && log out page mock up.
+- [ ] Register page mock up.
+- [ ] Cart page mock up.
+- [ ] Products mock up.
+
+## FOR NEXT MEETING:
